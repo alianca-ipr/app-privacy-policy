@@ -27,7 +27,7 @@ Este Serviço não usa esses “cookies” explicitamente. No entanto, o aplicat
 
 **Provedores de serviço**
 
-podemos empregar empresas terceirizadas e indivíduos pelos seguintes motivos:
+Podemos empregar empresas terceirizadas e indivíduos pelos seguintes motivos:
 
 Para facilitar nosso serviço;
 Para fornecer o serviço em nosso nome;
@@ -53,4 +53,4 @@ Esta política entra em vigor em 13/11/2020.
 
 **Contate-nos**
 
-Se você tiver dúvidas ou sugestões sobre a nossa Política de Privacidade, não hesite em entrar em contato conosco pelo e-mail bruno-eidam@hotmail.com.
+Se você tiver dúvidas ou sugestões sobre a nossa Política de Privacidade, não hesite em entrar em contato conosco pelo e-mail aliancaipr@gmail.com.
